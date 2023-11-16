@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 👨‍🎓 I’m a Computer Engineer graduated _cum Laude_ at the University of Parma ([UniPR](https://www.unipr.it/en)) 
-- I'm currently working as Software & Data Analytics Engineer related to the IIoT field.
+- 👨‍🎓 I’m a Computer Engineer graduated at the University of Parma ([UniPR](https://www.unipr.it/en)) 
+- I'm currently working as Software Engineer related to the IIoT field.
 
 ### My Vision🌄 
   Always looking for improvements. 
@@ -56,3 +56,5 @@
  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
  ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+
+ [![Anurag's GitHub stats] (https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matticrispo7&count_private=true&hide=issues,contribs&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats))
