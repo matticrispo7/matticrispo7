@@ -4,7 +4,7 @@
 - I'm currently working as Software Engineer related to the IIoT field.
 
 ### My Vision🌄 
-  Always looking for improvements. 
+  Always looking for improvements. Currently learning some DevOps.
 
 ### Skills 🛠🧰 
 #### Programming Languages 🛠🧰
