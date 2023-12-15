@@ -57,4 +57,4 @@
  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
  ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
- [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matticrispo7&count_private=true&hide=issues,contribs&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
+![Anurag's GitHub stats](https://github-readme-stats-matticrispos-projects.vercel.app/api?username=matticrispo7&show_icons=true&theme=github_dark)
